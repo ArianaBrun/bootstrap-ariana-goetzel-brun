@@ -1,0 +1,78 @@
+/* 7aa07a oscuro
+a3d1a2 medio
+dbeddc claro*
+font-family: 'Alegreya', serif;*/
+
+* {
+    font-family: 'Alegreya', serif;
+}
+
+main {
+    background-color: #dbeddc;
+
+}
+
+header {
+    top: 0%;
+    background-color: #97d3969d;
+
+}
+
+header nav,
+footer,
+.card {
+    background-color: #a3d1a2;
+}
+
+.logo {
+    width: 5%;
+    margin: 1%;
+}
+
+.navbar-brand {
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+.card-group,
+.card-body {
+    text-align: center;
+}
+
+.card-img-top {
+    width: 70%;
+    height: 20%;
+    text-align: center;
+    margin: 0.5%;
+}
+
+.card {
+    align-items: center;
+}
+
+.text-index,
+h2 {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.container {
+    padding-bottom: 2%;
+}
+
+.foto-index {
+    width: 220px;
+    border-radius: 5%;
+}
+
+.btn {
+    background-color: #f7eed0;
+    color: black;
+    border-color: #7aa07a;
+}
+
+.btn:hover {
+    color: white;
+    border-color: #7aa07a;
+    background-color: #7aa07a;
+}
