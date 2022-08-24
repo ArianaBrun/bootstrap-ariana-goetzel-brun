@@ -66,9 +66,13 @@ h2 {
 }
 
 .btn {
-    background-color: #f7eed0;
+    background-color: #dbeddc;
     color: black;
     border-color: #7aa07a;
+}
+.form-contacto{
+    margin-left: 2%;
+    margin-right: 2%;
 }
 
 .btn:hover {
