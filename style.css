@@ -51,9 +51,14 @@ footer,
 }
 
 .text-index,
-h2 {
+h2, h1 {
     margin-left: 2%;
     margin-right: 2%;
+}
+.text-index2{
+    margin-left: 8%;
+    margin-right: 8%;
+    font-style: italic;
 }
 
 .container {
@@ -73,6 +78,10 @@ h2 {
 .form-contacto{
     margin-left: 2%;
     margin-right: 2%;
+}
+.foto-galeria{
+width: 100%;
+border-radius: 5%;
 }
 
 .btn:hover {
