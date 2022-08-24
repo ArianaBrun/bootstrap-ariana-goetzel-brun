@@ -51,11 +51,13 @@ footer,
 }
 
 .text-index,
-h2, h1 {
+h2,
+h1 {
     margin-left: 2%;
     margin-right: 2%;
 }
-.text-index2{
+
+.text-index2 {
     margin-left: 8%;
     margin-right: 8%;
     font-style: italic;
@@ -75,13 +77,25 @@ h2, h1 {
     color: black;
     border-color: #7aa07a;
 }
-.form-contacto{
-    margin-left: 2%;
-    margin-right: 2%;
+
+.form-contacto
+{
+margin-left: 2%;
+margin-right: 2%;
 }
-.foto-galeria{
-width: 100%;
-border-radius: 5%;
+
+.foto-galeria {
+    width: 100%;
+    border-radius: 5%;
+}
+
+.h1-somos {
+    padding: 4%;
+}
+.col-instalaciones{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .btn:hover {
